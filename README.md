@@ -6,9 +6,13 @@ This is the repository for my portfolio. It will be constantly updated as I am w
 
 Open the "resume.pdf" file
 
-### 4. Link to Portfolio
+### Link to Portfolio
 
 Check it out here: [My Portfolio](https://spclk.github.io/).
+
+### Screenshot
+
+![Portfolio](./Images/portfolio.png)
 
 Thank you for your insterest in my work!
 Konstantin
