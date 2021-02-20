@@ -12,7 +12,7 @@ Check it out here: [My Portfolio](https://spclk.github.io/).
 
 ### Screenshot
 
-![Portfolio](/images/Portfolio.png)
+![Portfolio](./images/Portfolio.png)
 
 Thank you for your insterest in my work!
 Konstantin
