@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from 'react-router-dom'
 
 function Main() {
   return (
@@ -29,7 +30,7 @@ function Main() {
             Check out some of the the projects I've done at the UC Davis Coding Bootcamp.{" "}
             <br/>
             <br/>
-            <a href="/portfolio" className="blue-grey-text text-darken-1">VIEW PORTFOLIO</a>
+            <Link to="/portfolio" className="blue-grey-text text-darken-1">VIEW PORTFOLIO</Link>
           </h6>
         </div>
       </div>

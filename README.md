@@ -8,7 +8,7 @@ Open the "resume.pdf" file
 
 ### Link to Portfolio
 
-Check out the deployed link here: [My Portfolio](https://spclk.github.io/React-Portfolio/).
+Check out the deployed link here: [My Portfolio](https://spclk.github.io/).
 
 ### Screenshot
 
