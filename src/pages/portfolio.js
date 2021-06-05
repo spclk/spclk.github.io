@@ -1,8 +1,15 @@
-import React from "react";
+import React, {useEffect} from "react";
 import Project from "../components/Project";
 import ProjectData from "../project-data.json"
+import 'materialize-css/dist/css/materialize.min.css';
+import M from 'materialize-css/dist/js/materialize.min.js';
 
 function Portfolio() {
+  
+  useEffect(() => {
+    M.AutoInit();
+  }, []);
+
   return (
     <main className="grey lighten-3">
       <div className="section grey lighten-3"></div>
