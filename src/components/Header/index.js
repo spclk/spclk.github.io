@@ -1,18 +1,19 @@
 import React from "react";
+import {Link} from 'react-router-dom'
 import "./style.css";
 
 function Header() {
   return (
     <nav >
       <div className="nav-wrapper white z-depth-2">
-      <a href="/" className="brand-logo blue-grey-text text-darken-4">
+      <Link to="/" className="brand-logo blue-grey-text text-darken-4">
         Konstantin
-      </a>
+      </Link>
       <ul id="nav-mobile" className="right hide-on-med-and-down">
         <li>
-          <a href="/portfolio" className="blue-grey-text text-darken-4">
+        <Link to="/portfolio" className="blue-grey-text text-darken-4">
             Portfolio
-          </a>
+          </Link>
         </li>
         <li>
           <a
