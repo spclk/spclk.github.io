@@ -17,15 +17,15 @@ function App() {
 
   return (
     <div>
-      <Header />
       <Router>
+      <Header />
         <Switch>
           <Route exact path= "/" component={Main}/>
           <Route exact path="/portfolio" component={Portfolio}/>
           <Route exact path="/project" component={Project}/>
         </Switch>
+        <Footer />
       </Router>
-      <Footer />
     </div>
   );
 }
