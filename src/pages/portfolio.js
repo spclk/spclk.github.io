@@ -8,7 +8,7 @@ function Portfolio() {
   
   useEffect(() => {
     M.AutoInit();
-  }, []);
+  });
 
   return (
     <main className="grey lighten-3">

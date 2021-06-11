@@ -4,16 +4,19 @@ import Main from "./pages/main"
 import Portfolio from "./pages/portfolio"
 import Project from "./components/Project"
 import Footer from "./components/Footer";
-import 'materialize-css/dist/css/materialize.min.css';
+import 'materialize-css';
+import { Button, Card, Row, Col } from 'react-materialize';
 import M from 'materialize-css/dist/js/materialize.min.js';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 function App() {
 
   useEffect(() => {
-    var elems = document.querySelectorAll('.parallax');
-    M.Parallax.init(elems, {});
-  },[]);
+    document.addEventListener('DOMContentLoaded', function() {
+      var elems = document.querySelectorAll('.parallax');
+      var instances = M.Parallax.init(elems);
+    })
+  });
 
   return (
     <div>
