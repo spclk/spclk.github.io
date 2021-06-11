@@ -4,8 +4,7 @@ import Main from "./pages/main"
 import Portfolio from "./pages/portfolio"
 import Project from "./components/Project"
 import Footer from "./components/Footer";
-import 'materialize-css';
-import { Button, Card, Row, Col } from 'react-materialize';
+import 'materialize-css/dist/css/materialize.min.css';
 import M from 'materialize-css/dist/js/materialize.min.js';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 

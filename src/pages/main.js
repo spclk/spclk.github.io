@@ -1,5 +1,6 @@
 import React from "react";
-import {Link} from 'react-router-dom'
+import { Link } from "react-router-dom";
+import { Parallax } from "react-materialize";
 
 function Main() {
   return (
@@ -18,26 +19,39 @@ function Main() {
           </h6>
         </div>
       </div>
-      <div className="parallax-container">
-        <div className="parallax">
-          <img src={process.env.PUBLIC_URL + "/images/digital-world.jpg"} alt="globe with cities connected digitally" />
+
+      <div>
+        <Parallax
+          image={
+            <img src={process.env.PUBLIC_URL + "/images/digital-world.jpg"}
+            alt="globe with cities connected digitally" />
+          }
+          options={{
+            responsiveThreshold: 0,
+          }}
+        />
+        <div className="section white">
+          <div className="row container">
+            <h3 className="header">Portfolio</h3>
+            <h6 className="grey-text text-darken-3">
+            Check out some of the the projects I've done at the UC Davis Coding
+            Bootcamp. <br />
+            <br />
+            <Link to="/portfolio" className="blue-grey-text text-darken-1">
+              VIEW PORTFOLIO
+            </Link>
+            </h6>
+          </div>
         </div>
-      </div>
-      <div className="section white">
-        <div className="row container">
-          <h3 className="header">Portfolio</h3>
-          <h6 className="grey-text text-darken-3">
-            Check out some of the the projects I've done at the UC Davis Coding Bootcamp.{" "}
-            <br/>
-            <br/>
-            <Link to="/portfolio" className="blue-grey-text text-darken-1">VIEW PORTFOLIO</Link>
-          </h6>
-        </div>
-      </div>
-      <div className="parallax-container">
-        <div className="parallax">
-          <img src={process.env.PUBLIC_URL +"/images/keyboard-binery-numbers.jpg"} alt="Laptop keyboard with binary nubmers falling" />
-        </div>
+        <Parallax
+          image={
+            <img src={process.env.PUBLIC_URL + "/images/keyboard-binery-numbers.jpg"}
+            alt="Laptop keyboard with binary nubmers falling" />
+          }
+          options={{
+            responsiveThreshold: 0,
+          }}
+        />
       </div>
     </main>
   );
