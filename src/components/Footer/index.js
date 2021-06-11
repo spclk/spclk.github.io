@@ -23,7 +23,7 @@ function Footer() {
         </div>
         <div className="footer-copyright">
             <div className="container blue-grey-text text-darken-4">
-            2021 Konstantin Alekseev. Developed with <a href="https://reactjs.org/" className="blue-grey-text text-darken-1">React</a> and <a href="https://materializecss.com/" className="blue-grey-text text-darken-1">Materialize</a>.
+            2021 Konstantin Alekseev. Developed with <a href="https://reactjs.org/" className="blue-grey-text text-darken-1">React</a> and <a href="http://react-materialize.github.io/react-materialize/?path=/story/react-materialize--welcome" className="blue-grey-text text-darken-1">Materialize</a>.
             </div>
         </div>
    </footer>
