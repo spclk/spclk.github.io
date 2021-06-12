@@ -8,7 +8,7 @@ function Project(props) {
   });
 
   return (
-    
+
       <Row>
         <Col
           m={12}
@@ -18,6 +18,8 @@ function Project(props) {
             closeIcon={<Icon>close</Icon>}
             header={<CardTitle image={process.env.PUBLIC_URL + props.project.image} reveal waves="light"/>}
             reveal={<p>{props.project.description}
+            <br/>
+            <br/>
             <img
                     className="responsive-img"
                     src={process.env.PUBLIC_URL + props.project.screenshots[0]}
@@ -33,27 +35,19 @@ function Project(props) {
                     src={process.env.PUBLIC_URL + props.project.screenshots[2]}
                     alt=""
                   ></img>
-                  <h5>Website</h5>
-                  <p className="fi">
-                    <a className="carousel-item" href={props.project.website}>
-                      {props.project.website}
-                    </a>
-                  </p>
-
-                  <h5>GitHub Repo</h5>
-                  <p className="fi">
-                    <a className="carousel-item" href={props.project.github}>
-                      {props.project.github}
-                    </a>
-                  </p>
             </p>}
             
             revealIcon={<Icon>more_vert</Icon>}
             title={props.project.title}
           >
             <p>
-              <a href="#">
-                This is a link
+              <a href={props.project.github}>
+                GitHub
+              </a>
+              
+              {""} | {""}
+              <a href={props.project.website}>
+                Website
               </a>
             </p>
           </Card>
