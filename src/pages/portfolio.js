@@ -21,7 +21,7 @@ function Portfolio() {
         </p>
       </div>
       <div className="container">
-        <div className="row">
+        <div className="col s12">
 
           {ProjectData.map(project => (
             <Project project={project}/>
