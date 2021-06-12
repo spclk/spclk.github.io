@@ -20,8 +20,8 @@ function Portfolio() {
           Coding Bootcamp. See more on my <a href="https://github.com/spclk" className="blue-grey-text text-darken-4">GitHub page</a>.
         </p>
       </div>
-      <div className="container">
-        <div className="col s12">
+      <div className="row container">
+        <div className="">
 
           {ProjectData.map(project => (
             <Project project={project}/>
