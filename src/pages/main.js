@@ -7,15 +7,16 @@ function Main() {
     <main>
       <div className="section white">
         <div className="row container">
+          <h5 className="grey-text text-darken-3 lighten-3 center-align">
+            Hi, I'm Konstantin Alekseev, a Web Developer in Folsom, CA.
+          </h5>
           <h6 className="grey-text text-darken-3 lighten-3">
-            I'm Konstantin Alekseev, a Full-Stack Web Developer in Folsom, CA.
+            I've graduated from the UC Davis Full-Stack Coding Bootcamp, where I've had 
+            a thrilling experience of coding everything from JavaScript to React to Back-End databases. 
             Out of all the things I love about coding, there are two things I
             love the most. I love how coding takes me on a thrilling ride of
             solving complex challenges. And I most certainly love how coding
-            rewards me with the joy of creating things into existence. I’m
-            excited about helping individuals and companies to display the best
-            presence in the digital world of today. As a curious person, I love
-            to learn new things. I'm super passioante about developing tools
+            rewards me with the joy of creating things into existence.  I'm super passioante about developing tools
             that make this world a better place for others. I'd be happy to hear
             from you.
           </h6>
