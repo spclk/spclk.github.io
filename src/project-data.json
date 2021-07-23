@@ -12,6 +12,7 @@
     {
         "title": "Projectimator",
         "description": "Provides an online service for Homeowners to locate contractors that are able to work within a specified budget.",
+        "tech": "TECH: Handlebars.js, Node.js, Express, MySQL, Sequelize, Nodemailer, Bootstrap",
         "website": "https://arcane-dusk-72745.herokuapp.com/",
         "github": "https://github.com/spclk/Projectimator",
         "image": "/images/Projectimator.jpg", 
@@ -21,6 +22,7 @@
     {
         "title": "Cryptelligent",
         "description": "This is an online application for new investors who wish to learn more about the world of cryptocurrency. CoinGecko and Bloomberg APIs are utilized to provide the cryptocurrency information.",
+        "tech": "TECH: Javascript, jQuery, Materialize, CoinGecko API, Bloomberg API",
         "website": "https://spclk.github.io/Cryptelligent/",
         "github": "https://github.com/spclk/Cryptelligent",
         "image": "/images/cryptelligent2.jpg",
@@ -29,6 +31,7 @@
     {
         "title": "Weather Dashboard",
         "description": "This is a simple weather app that allows you to check for current weather conditions and a 5-day forecast. It retrieves weather data for cities using the OpenWeather APIs. Searching for multiple cities will give you a clickable search history list you can use to retrieve weather for those cities again.",
+        "tech": "TECH: Javascript, Materialize, Moment.js, OpenWeather API",
         "website": "https://spclk.github.io/weather-dashboard/",
         "github": "https://github.com/spclk/weather-dashboard",
         "image": "/images/weatherdashboard.png",
@@ -37,6 +40,7 @@
     {
         "title": "Note Taker",
         "description": "This app can be used to write and save notes. It provides a simple and user-friendly interface, where a user can organize notes by title, store them for future use, or delete them.",
+        "tech": "TECH: Javascript, Node.js, Express, JSON storage, Bootstrap",
         "website": "https://still-beach-73975.herokuapp.com/",
         "github": "https://github.com/spclk/Note-Taker",
         "image": "/images/notetaker.png",
