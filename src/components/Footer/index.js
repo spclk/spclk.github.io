@@ -7,8 +7,8 @@ function Footer() {
         <div className="container">
             <div className="row">
             <div className="col l6 s12">
-                <h5 className="blue-grey-text text-darken-4">All the Details</h5>
-                <p className="blue-grey-text text-darken-4">For more detailed information about me, navigate to the links.</p>
+                <h5 className="grey-text text-darken-3">All the Details</h5>
+                <h6 className="grey-text text-darken-3">For more detailed info about me, navigate to the links.</h6>
             </div>
             <div className="col l4 offset-l2 s12">
                 <h5 className="blue-grey-text text-darken-4">Links</h5>

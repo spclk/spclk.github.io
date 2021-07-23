@@ -10,7 +10,7 @@ function Main() {
           <h5 className="grey-text text-darken-3 lighten-3 center-align">
             Hi, I'm Konstantin Alekseev, a Web Developer in Folsom, CA.
           </h5>
-          <h6 className="grey-text text-darken-3 lighten-3">
+          <h6 className="grey-text text-darken-3">
             I've graduated from the UC Davis Full-Stack Coding Bootcamp, where I've had 
             an amazing experience of coding everything from JavaScript to React to Back-End databases. 
             Out of all the things I love about coding, there are two things I
