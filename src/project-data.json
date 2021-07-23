@@ -26,14 +26,6 @@
         "screenshots": ["/images/home_ss.png", "/images/data_ss.png", "/images/info_ss.png"]
     },
     {
-        "title": "Fitness Tracker",
-        "description": "Fitness Tracker allows you to view, create, and track daily workouts. In this app, you can log multiple cardio or resistance exercises per day, as well as track them by different categories. User can log resitance exercises and track them by name, type, weight, sets, reps, and duration of exercise. Or a user can log cardio exerises and track them by name and distance traveled.",
-        "website": "https://serene-dusk-47892.herokuapp.com/",
-        "github": "https://github.com/spclk/Fitness-Tracker",
-        "image": "/images/fitness-tracker1.png",
-        "screenshots": ["/images/fitness-tracker1.png", "/images/fitness-tracker2.png", "/images/fitness-tracker3.png"]
-    },
-    {
         "title": "Weather Dashboard",
         "description": "This is a simple weather app that allows you to check for current weather conditions and a 5-day forecast. It retrieves weather data for cities using the OpenWeather APIs. Searching for multiple cities will give you a clickable search history list you can use to retrieve weather for those cities again.",
         "website": "https://spclk.github.io/weather-dashboard/",
