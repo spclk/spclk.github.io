@@ -20,6 +20,9 @@ function Project(props) {
             reveal={<p>{props.project.description}
             <br/>
             <br/>
+            {props.project.tech}
+            <br/>
+            <br/>
             <img
                     className="responsive-img"
                     src={process.env.PUBLIC_URL + props.project.screenshots[0]}

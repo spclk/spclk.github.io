@@ -2,6 +2,7 @@
     {
         "title": "ChargeBuddy",
         "description": "This app provides geoloaction to locate the user as well as charging stations for Electric Vehicles nearby. The user Registers their information with the application including their cars charging port and it is stored in a database. When they log back in that information and all nearby charging stations are displayed in a map on their homepage.",
+        "tech": "TECH: React, Node.js, Express, MongoDB, Mongoose, Materialize, Mapbox API",
         "website": "https://shielded-atoll-36831.herokuapp.com/",
         "github": "https://github.com/spclk/ChargeBuddy",
         "image": "/images/chargebuddy.png", 
