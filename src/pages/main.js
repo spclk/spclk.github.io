@@ -11,14 +11,13 @@ function Main() {
             Hi, I'm Konstantin Alekseev, a Web Developer in Folsom, CA.
           </h5>
           <h6 className="grey-text text-darken-3">
-            I've graduated from the UC Davis Full-Stack Coding Bootcamp, where I've had 
-            an amazing experience of coding everything from JavaScript to React to Back-End databases. 
+            I've graduated from the UC Davis Coding Bootcamp, where I've had 
+            an amazing experience coding all things Full-Stack, from JavaScript, Node.js, and React to back-end in mySQL and MongoDB. 
             Out of all the things I love about coding, there are two things I
             love the most. I love how coding takes me on a thrilling ride of
             solving complex challenges. And I most certainly love how coding
             rewards me with the joy of creating things into existence.  I'm super passioante about developing tools
-            that make this world a better place for others. I'd be happy to hear
-            from you.
+            that make this world a better place for others. I'd be happy to hear from you.
           </h6>
         </div>
       </div>
