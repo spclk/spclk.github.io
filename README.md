@@ -1,7 +1,7 @@
 # PORTFOLIO
 
-This is my personal portfolio build with React and Materialize. 
-I will continue to update it as I am working on various coding projects.
+This is my personal portfolio built with React and Materialize. 
+I will continue to update it as I am working on different coding projects.
 
 ## Resume.
 
