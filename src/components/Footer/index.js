@@ -14,7 +14,7 @@ function Footer() {
                 <h5 className="blue-grey-text text-darken-4">Links</h5>
                 <ul>
                 <li><a className="blue-grey-text text-darken-4" href="https://github.com/spclk/spclk.github.io/blob/main/resume.pdf">Resume</a></li>
-                <li><a className="blue-grey-text text-darken-4" href="https://www.linkedin.com/in/konstantin-alekseev-000b98206/">LinkedIn</a></li>
+                <li><a className="blue-grey-text text-darken-4" href="https://www.linkedin.com/in/-konstantin/">LinkedIn</a></li>
                 <li><a className="blue-grey-text text-darken-4" href="https://github.com/spclk">GitHub</a></li>
                 <li><a className="blue-grey-text text-darken-4" href="mailto:konstantin1020@gmail.com">Email</a></li>
                 </ul>

@@ -25,7 +25,7 @@ function Header() {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/in/konstantin-alekseev-000b98206/"
+            href="https://www.linkedin.com/in/-konstantin/"
             className="blue-grey-text text-darken-4"
           >
             LinkedIn
