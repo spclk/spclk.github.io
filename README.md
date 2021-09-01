@@ -1,17 +1,13 @@
 # PORTFOLIO
 
-This is my personal portfolio built with React and Materialize. 
-I will continue to update it as I am working on different coding projects.
+UPDATE! I have now created a new portfolio website. Check it out at the link below. 
 
-## Resume.
+## New Portfolio Link
 
-To view my Resume, open the "resume.pdf" file in this repo. Or, click here: [Resume](https://github.com/spclk/spclk.github.io/blob/main/resume.pdf).
+https://imready.netlify.app
 
-## Link
+## This Original Link
 
-Check out the deployed link here: [My Portfolio](https://spclk.github.io/).
+Although this original portfolio was not finalized, if you're still interested looking under the hood at how I implemented React and Materialize, you can find the website here: https://spclk.github.io
 
 
-Thank you for your insterest in my work!
-
-Konstantin
