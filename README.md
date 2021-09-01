@@ -8,6 +8,6 @@ https://imready.netlify.app
 
 ## This Original Link
 
-Although this original portfolio was not finalized, if you're still interested looking under the hood at how I implemented React and Materialize, you can find the website here: https://spclk.github.io
+Although this original portfolio was left unfinished, if you're interested in looking at how I've implemented React and Materialize, you can find the website here: https://spclk.github.io
 
 
